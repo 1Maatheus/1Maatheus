@@ -41,5 +41,6 @@
 
 </div>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1maatheus&" alt="1maatheus" /></p>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F5DEB3&height=120&section=footer"/>
