@@ -8,7 +8,7 @@
    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Maatheus&layout=compact&theme=onedark"/>
  </div>
     
- ### Tecnologias que eu uso atualmente:
+ ### Tecnologias que estou usando atualmente:
     
 <div align="center" style="display: inline_block"><br>
   <img align="center" height="28" width="85" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
