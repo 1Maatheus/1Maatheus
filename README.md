@@ -19,7 +19,7 @@
   <img align="center" height="28" width="85" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-### Tecnologias que estou estudando:
+### Tecnologias que estou estudando atualmente:
 
 <div align="center" style="display: inline_block"><br>
   
