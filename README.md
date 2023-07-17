@@ -1,7 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F5DEB3&height=120&section=header"/>
-
     
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFEBCD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Matheus.;Bem-Vindos!+)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5E96D6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Matheus.;Bem-Vindos!+)](https://git.io/typing-svg)
   
  <div align="center">
    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=1Maatheus&show_icons=true&theme=onedark"/>
@@ -19,18 +17,7 @@
   <img align="center" height="28" width="85" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-### Tecnologias que estou estudando atualmente:
-
-<div align="center" style="display: inline_block"><br>
-  
-  <img align="center" height="28" width="85" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" height="28" width="85" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</div>
-
-
 ##
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1Maatheus&bg_color=000000&color=e4bf7a&line=df6d74&point=8eb573&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Contato e redes:
 <div align="center">
@@ -44,4 +31,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1maatheus&theme=dark" alt="1maatheus" /></p>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F5DEB3&height=120&section=footer"/>
+
