@@ -2,7 +2,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5E96D6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Matheus.;Bem-Vindos!+)](https://git.io/typing-svg)
   
  <div align="center">
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=1Maatheus&show_icons=true&theme=onedark"/>
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=1Maatheus&show_icons=true&theme=dark"/>
    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Maatheus&layout=compact&theme=onedark"/>
  </div>
     
