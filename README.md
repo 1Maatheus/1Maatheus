@@ -1,30 +1,31 @@
+# 👋🏻 Matheus Oliveira Monteiro
  
- <div align="center">
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=1Maatheus&show_icons=true&theme=dark"/>
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Maatheus&layout=compact&theme=dark"/>
- </div>
-    
- ### Tecnologias que uso atualmente:
- <hr>   
-<div align="center" style="display: inline_block"><br>
-  <img align="center" height="28" width="85" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" height="28" width="85" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" height="28" width="85" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" height="28" width="85" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img align="center" height="28" width="105" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img align="center" height="28" width="85" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+
+<div align="center">
+
+  ### Skills:
+
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,git,vscode)](https://skillicons.dev)
+
 </div>
 
-##
- <hr>
-### Contato e redes:
 <div align="center">
-  <a href="https://instagram.com/matheus.1910" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:matheusoliveira7227@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-oliveira-monteiro-3a5b8925a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ### Learning:
+
+  [![My Skills](https://skillicons.dev/icons?i=java,angular,ts,react,php,mysql)](https://skillicons.dev)
+
+</div>
+
+ <div align="center">
+  
+  ### Contato e redes:
+  
+  <a href="https://instagram.com/matheus.1910" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-oliveira-monteiro-3a5b8925a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a> 
+  
 </div>
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1maatheus&theme=dark" alt="1maatheus" /></p>
   
 
