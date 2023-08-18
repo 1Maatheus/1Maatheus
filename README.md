@@ -1,7 +1,7 @@
 # 👋🏻 Matheus Oliveira Monteiro
  
 
-<div align="center">
+<div>
 
   ### Skills:
 
@@ -9,7 +9,7 @@
 
 </div>
 
-<div align="center">
+<div>
  
   ### Learning:
 
@@ -17,7 +17,7 @@
 
 </div>
 
- <div align="center">
+ <div align="right">
   
   ### Contato e redes:
   
