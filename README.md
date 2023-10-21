@@ -1,6 +1,11 @@
 # Matheus Oliveira Monteiro 👋🏻
 
+<div align="center">
+  <img  src="./assets/\_45f7291a-3dd6-40a4-a983-31e64d8f274f.jpg" width="400">
+</div>
+
 ## About Me 👨🏻‍💻
+
 I'm a front-end developer passionate about technology. Studying and looking for the first opportunity as a developer!
 Open source enthusiast and I believe in education as a way to improve the world.
 
@@ -17,11 +22,11 @@ Open source enthusiast and I believe in education as a way to improve the world.
 <h3>Tools</h3>
 
 ![MongoDB](https://img.shields.io/badge/mongodb-000?style=for-the-badge&logo=mongodb&logoColor=4DB33D)
+![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=F1502F)
 
 <h3>Learning</h3>
 
 ![PHP](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php&logoColor=6C78AF)
-![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=java&logoColor=6C78AF)
 
 <hr>
 
