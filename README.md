@@ -3,9 +3,9 @@
 </div>
 
 
-I'm a front-end developer passionate about technology. Studying and looking for the first opportunity as a developer!
-Open source enthusiast and I believe in education as a way to improve the world.
-<hr>
+<p> I'm a front-end developer passionate about technology. Studying and looking for the first opportunity as a developer!
+Open source enthusiast and I believe in education as a way to improve the world. </p>
+
 
 <h2>Tools</h2>
 
