@@ -1,9 +1,5 @@
 # Hi there, I'm Matheus 👋🏻
 
-<div align="center">
-  <img  src="./assets/\_45f7291a-3dd6-40a4-a983-31e64d8f274f.jpg" width="400">
-</div>
-
 ## About Me 👨🏻‍💻
 
 I'm a front-end developer passionate about technology. Studying and looking for the first opportunity as a developer!
