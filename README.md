@@ -12,6 +12,7 @@ Open source enthusiast and I believe in education as a way to improve the world.
 [![Javascript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) 
 [![Typescript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 [![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 [![Sass](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)
