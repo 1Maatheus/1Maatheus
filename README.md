@@ -10,6 +10,7 @@ Open source enthusiast and I believe in education as a way to improve the world.
 <h2>Tools</h2>
 
 [![Javascript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) 
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 [![Typescript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
