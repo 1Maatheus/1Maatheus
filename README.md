@@ -2,9 +2,9 @@
  <h1>Hi, I'm Matheus! 👨🏻‍💻</h1> 
 </div>
 
-
-<p> I'm a front-end developer passionate about technology. Studying and looking for the first opportunity as a developer!
-Open source enthusiast and I believe in education as a way to improve the world. </p>
+<p>
+ I'm a front-end developer passionate about technology. Studying and looking for the first opportunity as a developer!
+Open source enthusiast and I believe in education as a way to improve the world.</p>
 
 <div align="center">
 
