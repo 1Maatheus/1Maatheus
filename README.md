@@ -35,5 +35,4 @@ Open source enthusiast and I believe in education as a way to improve the world.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/matheus-oliveira-monteiro-3a5b8925a/)
 </div>
 
-Vou tentar criar isso para você. Aqui está a imagem que eu criei:
 
