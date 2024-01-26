@@ -1,14 +1,14 @@
 <div align="center">
- <h1>Hi, I'm Matheus! 👨🏻‍💻</h1> 
+ <h1>Olá, eu sou o Matheus! 👋🏻</h1> 
 </div>
 
 <p>
- I'm a front-end developer passionate about technology. Studying and looking for the first opportunity as a developer!
-Open source enthusiast and I believe in education as a way to improve the world.</p>
+ Sou um entusiasta do desenvolvimento front-end. Atualmente, estou trilhando meu caminho como desenvolvedor front-end júnior, buscando constantemente aprender e aprimorar minhas habilidades na criação de interfaces web responsivas e funcionais. Com foco em React e Next.js para aplicações full-stack.
+</p>
 
-<div align="center">
+<div>
 
-<h2>Tools</h2>
+<h2>Tecnologias: 💻 </h2>
  
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -27,9 +27,9 @@ Open source enthusiast and I believe in education as a way to improve the world.
 
 </div>
 
-<div align="center">
+<div >
  
-<h2>💬 Reach me out</h2> 
+<h2> Contato: 💬 </h2> 
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:matheus7227@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/matheus-oliveira-monteiro-3a5b8925a/)
