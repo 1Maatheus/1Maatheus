@@ -1,8 +1,6 @@
 <div align="center">
   <img src="./assets/github.png" />
 </div>
-<hr>
-<br>
 <br>
 
 <div align="center">
