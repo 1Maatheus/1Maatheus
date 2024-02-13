@@ -36,10 +36,10 @@
 
 <div align="center">
   <a href="https://github.com/1maatheus/github-readme-stats">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=1maatheus&show_icons=true&theme=swift" />
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=1maatheus&show_icons=true&theme=github_dark_dimmed" />
   </a>
   <a href="https://github.com/1maatheus/convoychat">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1maatheus&layout=compact&langs_count=8&card_width=320" />
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1maatheus&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed" />
   </a>
 </div>
 
