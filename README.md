@@ -1,9 +1,16 @@
 <div align="center">
- <h1>Olá, eu sou o Matheus! 👋🏻</h1> 
+  <img src="./assets/github.png" />
+</div>
+<hr>
+<br>
+<br>
+
+<div align="center">
+  <h1>Olá, eu sou o Matheus! 👋🏻</h1>
 </div>
 
 <p>
- Sou um entusiasta do desenvolvimento front-end. Atualmente, estou trilhando meu caminho como desenvolvedor front-end júnior, buscando constantemente aprender e aprimorar minhas habilidades na criação de interfaces web responsivas e funcionais. Com foco em React e Next.js para aplicações full-stack.
+  Cursando Análise e Desenvolvimento de Sistemas, sou apaixonado por tecnologia e por programação. Me aventuro no front-end, com foco em React e Next.JS.  Uso Tailwind CSS para estilização e consequentemente, economizando tempo no desenvolvimento. Também tenho conhecimento em SASS, StyledComponents e Bootstrap. 
 </p>
 
 <div>
@@ -28,10 +35,11 @@
 
 <div >
  
-<h2> Contato: 💬 </h2> 
+<h2> Contato: 💬 </h2>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:matheus7227@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/matheus-oliveira-monteiro-3a5b8925a/)
+
 </div>
 
 <div align="center">
@@ -42,4 +50,3 @@
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1maatheus&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed" />
   </a>
 </div>
-
