@@ -33,3 +33,13 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:matheus7227@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/matheus-oliveira-monteiro-3a5b8925a/)
 </div>
+
+<div align="center">
+  <a href="https://github.com/1maatheus/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=1maatheus&show_icons=true&theme=swift" />
+  </a>
+  <a href="https://github.com/1maatheus/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1maatheus&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
+
