@@ -4,11 +4,11 @@
 <br>
 
 <div align="center">
-  <h1>Olá, eu sou o Matheus! 👋🏻</h1>
+  <h1>Olá, eu sou o Matheus! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/> </h1>
 </div>
 
 <p>
-  Cursando Análise e Desenvolvimento de Sistemas, sou apaixonado por tecnologia e por programação. Me aventuro no front-end, com foco em React e Next.JS.  Uso Tailwind CSS para estilização e consequentemente, economizando tempo no desenvolvimento. Também tenho conhecimento em SASS, StyledComponents e Bootstrap. 
+Cursando Análise e Desenvolvimento de Sistemas, sou apaixonado por tecnologia e por programação. Me aventuro no front-end, com foco em React e Next.JS.  Uso Tailwind CSS para estilização e consequentemente, economizando tempo no desenvolvimento. Também tenho conhecimento em SASS, StyledComponents e Bootstrap. 
 </p>
 
 <div>
