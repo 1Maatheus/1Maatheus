@@ -5,7 +5,8 @@
 - Cursando **Análise e Desenvolvimento de Sistemas**.
 - Usando tecnologias para web como **React, Next.JS e Tailwind CSS**.
 - Focado no desenvolvimento **front-end**.
-- Estudando **PHP** para o back-end e aumentando o conhecimento.
+- Estudando **PHP** para o back-end e aumentar o leque de skills.
+
 
 <br />
 
