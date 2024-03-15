@@ -36,7 +36,7 @@
 ### 💬 Contato: 
 
 [![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:matheus7227@gmail.com)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/matheus-oliveira-monteiro-3a5b8925a/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/matheus-oliveira-monteiro/)
 
 </div>
 
